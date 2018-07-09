@@ -1,0 +1,23 @@
+public/
+myrent.vpp\~??
+*.bak
+admin
+public-site
+private-site
+mbignore
+
+#Temp excel file
+~$*.*
+
+*.gz
+*.synctex.gz
+tmp
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+.metadata/
+
